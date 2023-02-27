@@ -21,3 +21,6 @@ main = do
   putStrLn $ insults !! randIndex
 
 ```
+<p align="center">
+  <a href="https://keys.openpgp.org/search?q=sogreatandpowerful%40tuta.io">PGP KEY</a>
+</p>
